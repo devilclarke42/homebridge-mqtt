@@ -5,9 +5,9 @@
 #include <EEPROM.h>
 
 // Update these with values suitable for your network.
-const char* ssid = "VM7612534";
-const char* password = "s3xDsQcxygjp";
-const char* mqtt_server = "192.168.0.32";
+const char* ssid = "xxxxxxxxx";
+const char* password = "xxxxxxxx";
+const char* mqtt_server = "111.111.111.111";
 
 //Update this with the name of device.
 String device = "lincoln's_lamp"; 
